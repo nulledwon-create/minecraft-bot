@@ -9,6 +9,6 @@
   "author": "MannuG",
   "license": "ISC",
   "dependencies": {
-    "mineboty": "^5.0.1"
+    "mineboty": "4.0.1"
   }
 }
