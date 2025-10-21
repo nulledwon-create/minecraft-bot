@@ -1,5 +1,8 @@
 {
-	"ip":"Testing09.aternos.me",
-	"port": "25565",
-	"name": "afkbot"
+ "ip": "Veinline.aternos.me",
+ "port": "36352",
+ "name": "BOT",  
+ "auto-night-skip": "false",
+ "loginmsg": "ana bot"
 }
+
